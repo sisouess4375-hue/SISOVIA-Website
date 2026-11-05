@@ -188,3 +188,14 @@ header p {
     margin: 25px auto;
     object-fit: contain;
 }
+/* ProDentim Image Size Fix */
+
+.product-image {
+    display: block;
+    width: 80%;
+    max-width: 260px;
+    max-height: 230px;
+    height: auto;
+    object-fit: contain;
+    margin: 20px auto;
+}
