@@ -199,3 +199,26 @@ header p {
     object-fit: contain;
     margin: 20px auto;
 }
+.product-details {
+    margin: 35px 0;
+    text-align: left;
+}
+
+.detail-item {
+    background: #ffffff;
+    padding: 18px;
+    margin: 15px 0;
+    border-radius: 10px;
+    border-left: 4px solid #176b63;
+}
+
+.detail-item h4 {
+    color: #176b63;
+    margin: 0 0 10px;
+}
+
+.detail-item p {
+    font-size: 15px;
+    margin: 0;
+    line-height: 1.7;
+}
